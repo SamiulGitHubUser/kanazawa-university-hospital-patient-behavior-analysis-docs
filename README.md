@@ -1,5 +1,3 @@
-# Kanazawa University Hospital Patient Research Project
-
 # Multimodal Analysis of Post-Surgical Cognitive and Behavioral Conditions
 
 # Research Background
