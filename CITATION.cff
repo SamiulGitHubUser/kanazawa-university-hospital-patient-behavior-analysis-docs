@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Multimodal Analysis of Post-Surgical Cognitive and Behavioral Conditions"
+authors:
+  - family-names: Islam
+    given-names: J A M Samiul
+  - family-names: Okada
+    given-names: Shogo
+  - family-names: Nakada
+    given-names: Mitsutoshi
+  - family-names: Nakajima
+    given-names: Riho
+message: "If you use this repository, please cite this work."
