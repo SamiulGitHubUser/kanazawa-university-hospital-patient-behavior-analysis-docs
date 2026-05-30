@@ -8,6 +8,16 @@ This research is a collaborative project between **Japan Advanced Institute of S
 
 The study focuses on identifying behavioral differences between patients who exhibit post-operative cognitive or behavioral abnormalities and those who demonstrate normal cognitive and behavioral functioning after surgery. By leveraging video and audio recordings, the project seeks to develop objective methods for assessing patient behavior and engagement in clinical settings.
 
+## Clinical Challenge / Research Motivation
+
+Magnetic Resonance Imaging (MRI) is widely used to assess patients following neurosurgical treatment. While MRI provides valuable information regarding structural changes in the brain, it does not always accurately reflect a patient's cognitive and behavioral condition.
+
+During clinical observation, some patients exhibited noticeable behavioral or cognitive abnormalities despite showing no clear distinguishing characteristics in MRI findings. Conversely, patients with similar MRI results often demonstrated different levels of cognitive engagement, communication ability, and behavioral performance during post-operative assessments.
+
+This discrepancy highlights a critical clinical challenge: structural neuroimaging alone may be insufficient to fully characterize a patient's functional recovery and behavioral state.
+
+To address this limitation, this research investigates whether multimodal behavioral biomarkers extracted from audio-visual patient interactions can provide complementary information beyond conventional MRI assessments. By analyzing speech patterns, response behaviors, and non-verbal cues, we aim to develop objective methods for identifying post-surgical cognitive and behavioral abnormalities.
+
 ## Collaborating Institutions
 
 - Japan Advanced Institute of Science and Technology (JAIST)
