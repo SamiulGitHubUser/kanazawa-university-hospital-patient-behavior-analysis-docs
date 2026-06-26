@@ -453,13 +453,13 @@ SHAP (SHapley Additive exPlanations) provides per-patient feature attribution �
 
 ### SHAP Feature Ranking (N=40, XGBoost speech_cognitive)
 
-| Rank | Feature | Mean |SHAP| | Direction | Clinical Meaning |
-|------|---------|---------------|-----------|-----------------|
-| 1 | **pause_ratio** | Highest | Anomaly → positive SHAP | High pause ratio pushes toward Anomaly |
-| 2 | **hesitation_count** | High | Anomaly → positive SHAP | More hesitations → Anomaly |
-| 3 | avg_object_arrangement_time | Medium | Anomaly → positive SHAP | Slower object handling → Anomaly |
-| 4 | shimmer_pct | Medium | Anomaly → positive SHAP | More vocal amplitude variation → Anomaly |
-| 5 | speech_rate_wpm | Low | Anomaly → mixed | Inconsistent across patients |
+| Rank | Feature | Mean SHAP | Direction | Clinical Meaning |
+|------|---------|-----------|-----------|-----------------|
+| 1 | **pause_ratio** | Highest | Anomaly → positive | High pause ratio pushes toward Anomaly prediction |
+| 2 | **hesitation_count** | High | Anomaly → positive | More hesitations → Anomaly |
+| 3 | avg_object_arrangement_time | Medium | Anomaly → positive | Slower object handling → Anomaly |
+| 4 | shimmer_pct | Medium | Anomaly → positive | More vocal amplitude variation → Anomaly |
+| 5 | speech_rate_wpm | Low | Mixed | Inconsistent direction across patients |
 
 ### Cross-Model SHAP Consistency
 
